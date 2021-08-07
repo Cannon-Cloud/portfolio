@@ -5,29 +5,47 @@ import Pagetitle from "../elements/Pagetitle";
 import Skill from "../elements/Skill";
 
 const aboutContent = {
-  name: "Bolby",
+  name: "Clarence",
   avatarImage: "/images/avatar-2.svg",
   content:
-    "I am Bolby Doe, web developer from London, United Kingdom. I have rich experience in web site design and building and customization, also I am good at WordPress.",
+    "I am Clarence Cannon, a jack of all trades in sales and engineering. I have rich experience in web site design, building applications and customization. I also have a background in sales",
 };
 
 const progressData = [
   {
     id: 1,
     title: "MEAN Development",
-    percantage: 85,
+    percantage: 90,
     progressColor: "#FFD15C",
   },
   {
     id: 2,
     title: "MERN Development",
-    percantage: 90,
+    percantage: 80,
     progressColor: "#FF4C60",
   },
   {
     id: 3,
+    title: "React Native",
+    percantage: 80,
+    progressColor: "#6C6CE5",
+  },
+  {
+    id: 4,
     title: "IoT",
     percantage: 95,
+    progressColor: "#6C6CE5",
+  },
+  {
+    id: 5,
+    title: "Security",
+    percantage: 90,
+    progressColor: "#6C6CE5",
+  },
+  {
+    id: 6,
+    title: "Solution Selling",
+    percantage: 85,
     progressColor: "#6C6CE5",
   },
 ];
@@ -54,7 +72,7 @@ const counterData = [
   {
     id: 4,
     title: "Nominees winner",
-    count: 35,
+    count: 5,
     icon: "icon-badge",
   },
 ];

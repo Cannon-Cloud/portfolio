@@ -21,7 +21,7 @@ const experienceData = [
   },
   {
     id: 2,
-    title: "Solutions Engineer",
+    title: "Solutions Engineering",
     years: "2020 - 2021",
     content: "Design and suggest wireless solutions for various applications",
   },
